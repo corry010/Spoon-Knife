@@ -1,19 +1,16 @@
-.odd{
-  background: rgb(253, 146, 164);
-  font-family: verdana, "Dejavu Sans", sans-serif;
+.clickme, 
+.noclickme{
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
 
 }
-
-#myid{
-  color: blue;
-  font-size: 36px;
-}
-.odd.cooler{
-  font-size: 24px;
-}
-
-#otherid{
-  background: lightgreen;
-  font-size: 24px;
+.clickme{
+  background: black;
+  color: white;
   font-weight: bold;
+
+}
+.noclickme{
+  background: yellow;
+
 }
